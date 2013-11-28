@@ -1,0 +1,4 @@
+Name Of App		Site to download
+GitHub (Duh!)		If you are reading this, you should have it but it is located in http://www.github.com
+Corona			http://www.coronalabs.com
+Netbeans		http://www.netbeans.org
